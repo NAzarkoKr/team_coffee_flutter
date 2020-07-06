@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "703660720028",
+    "firebase_url": "https://coffee-for-team.firebaseio.com",
+    "project_id": "coffee-for-team",
+    "storage_bucket": "coffee-for-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703660720028:android:ebb88e775c1e3f89059259",
+        "android_client_info": {
+          "package_name": "com.nazar.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703660720028-th0jvkuocrli2f15s7p3dq4f8mhoclkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmLcflEtcnCnlDzY8t6wUubibrHVpHE2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703660720028-th0jvkuocrli2f15s7p3dq4f8mhoclkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703660720028:android:7d94ac0682e87cdd059259",
+        "android_client_info": {
+          "package_name": "com.nazarko.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703660720028-th0jvkuocrli2f15s7p3dq4f8mhoclkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmLcflEtcnCnlDzY8t6wUubibrHVpHE2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703660720028-th0jvkuocrli2f15s7p3dq4f8mhoclkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
